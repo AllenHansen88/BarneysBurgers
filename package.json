@@ -1,6 +1,7 @@
 {
   "name": "barneys-burgers",
   "version": "0.1.0",
+  "homepage": "http://AllenHansen88.github.io/BarneysBurgers",
   "private": true,
   "dependencies": {
     "@react-google-maps/api": "^2.18.1",
