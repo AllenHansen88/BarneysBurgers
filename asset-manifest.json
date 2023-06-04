@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/BarneysBurgers/static/css/main.04b4bbc5.css",
+    "main.js": "/BarneysBurgers/static/js/main.b81384b4.js",
+    "static/media/GiftCards.png": "/BarneysBurgers/static/media/GiftCards.1b9f89d24d9c60bdca93.png",
+    "static/media/FoodDisplay.jpg": "/BarneysBurgers/static/media/FoodDisplay.0f2e15044d15f1ffe59c.jpg",
+    "static/media/sandwiches.jpg": "/BarneysBurgers/static/media/sandwiches.607b184befbf4e2cb928.jpg",
+    "static/media/sides.jpg": "/BarneysBurgers/static/media/sides.15e6bcd2604d924afac7.jpg",
+    "static/media/Burger.jpg": "/BarneysBurgers/static/media/Burger.3f9a74e5802cc3df4a85.jpg",
+    "static/media/salads.jpg": "/BarneysBurgers/static/media/salads.6e4671382b643e5d8e00.jpg",
+    "static/media/InsideResturant.jpg": "/BarneysBurgers/static/media/InsideResturant.52c495d5c3b257509b56.jpg",
+    "static/media/chickenBurger.jpg": "/BarneysBurgers/static/media/chickenBurger.092c590d605e2fd02b47.jpg",
+    "static/media/CateringImage.jpg": "/BarneysBurgers/static/media/CateringImage.e3cc2511363073d089f2.jpg",
+    "static/media/BurgerAndFries.jpg": "/BarneysBurgers/static/media/BurgerAndFries.ab42861dccb3d6bb0ac6.jpg",
+    "static/media/OutsideStore.jpg": "/BarneysBurgers/static/media/OutsideStore.027504d556837f3e817f.jpg",
+    "static/media/chili.jpg": "/BarneysBurgers/static/media/chili.5749fe5abb9b27f87766.jpg",
+    "static/media/BBLogo3.png": "/BarneysBurgers/static/media/BBLogo3.a63afbfac2864231b274.png",
+    "static/media/BBLogo1.png": "/BarneysBurgers/static/media/BBLogo1.c362941b00365599c1aa.png",
+    "static/media/LeftArrow.png": "/BarneysBurgers/static/media/LeftArrow.1a2c53e3b86022d13b03.png",
+    "static/media/RightArrow.png": "/BarneysBurgers/static/media/RightArrow.1a2c53e3b86022d13b03.png",
+    "static/media/DoorDashImage.jpg": "/BarneysBurgers/static/media/DoorDashImage.a46a2ca20e923890a72e.jpg",
+    "static/media/WideDoorDash.jpg": "/BarneysBurgers/static/media/WideDoorDash.a2060c37e8a5c230641b.jpg",
+    "static/media/hotdog.jpg": "/BarneysBurgers/static/media/hotdog.df35276535721ff34439.jpg",
+    "index.html": "/BarneysBurgers/index.html",
+    "main.04b4bbc5.css.map": "/BarneysBurgers/static/css/main.04b4bbc5.css.map",
+    "main.b81384b4.js.map": "/BarneysBurgers/static/js/main.b81384b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04b4bbc5.css",
+    "static/js/main.b81384b4.js"
+  ]
+}
