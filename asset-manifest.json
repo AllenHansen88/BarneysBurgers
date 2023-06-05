@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BarneysBurgers/static/css/main.04b4bbc5.css",
-    "main.js": "/BarneysBurgers/static/js/main.b81384b4.js",
+    "main.js": "/BarneysBurgers/static/js/main.c601a743.js",
     "static/media/GiftCards.png": "/BarneysBurgers/static/media/GiftCards.1b9f89d24d9c60bdca93.png",
     "static/media/FoodDisplay.jpg": "/BarneysBurgers/static/media/FoodDisplay.0f2e15044d15f1ffe59c.jpg",
     "static/media/sandwiches.jpg": "/BarneysBurgers/static/media/sandwiches.607b184befbf4e2cb928.jpg",
@@ -23,10 +23,10 @@
     "static/media/hotdog.jpg": "/BarneysBurgers/static/media/hotdog.df35276535721ff34439.jpg",
     "index.html": "/BarneysBurgers/index.html",
     "main.04b4bbc5.css.map": "/BarneysBurgers/static/css/main.04b4bbc5.css.map",
-    "main.b81384b4.js.map": "/BarneysBurgers/static/js/main.b81384b4.js.map"
+    "main.c601a743.js.map": "/BarneysBurgers/static/js/main.c601a743.js.map"
   },
   "entrypoints": [
     "static/css/main.04b4bbc5.css",
-    "static/js/main.b81384b4.js"
+    "static/js/main.c601a743.js"
   ]
 }
