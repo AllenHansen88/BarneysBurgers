@@ -30,7 +30,7 @@ import Gallery from './gallery';
 
 export default function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
         <Routes>
           <Route path="/menu" element={<Menu />} />
